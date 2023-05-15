@@ -47,3 +47,5 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 4 | 5 | 6
+
+[![masukin video PWK eps NGELAMAR KERJA DI AYAM FRIED CHICKEN, DEDE SUNANDAR MALAH DISANGKA MAU MALING RESEP](https://yt3.googleusercontent.com/oPHrXJ72hOOlem090038uhf4SqWaD5SMPnzQ8aBrjKRalRfOWnk_bAkhwgu07g6i40WHiEhFZA=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/watch?v=0OsQi-ZrqCI)
